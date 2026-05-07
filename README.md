@@ -1,6 +1,6 @@
 # © 2026 Radioxians Studios
 
-Welcome to the official repository for **Radioxians Studios** programming exercises!
+CSharp Script by Radioxians Studios
 
 ## 📝 Description
 This is a public space where we upload all the scripts used to study **C#** and the **Unity** engine. It serves as a diary of our progress and a record of the bugs we've defeated.
